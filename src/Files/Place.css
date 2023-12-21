@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .sdd {
+    font-size: 34px;
+    color: red;
+  }
+  #slides{
+    padding-left: 100px;
+    padding-top: 60px;
+  }

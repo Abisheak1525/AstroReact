@@ -1,0 +1,51 @@
+#table1{
+    padding: 10px;
+    margin: 40px; 
+    border-collapse: collapse;
+    overflow-y: scroll;
+  }
+  
+  #card1,
+  #card2,
+  #card3{
+      padding: 20px;
+      margin: 40px;
+      height: 300px;
+      width: 300px;
+  }
+  
+  #table_btn {
+      margin-top: 50px;
+      width: 1300px;
+      margin-left: 100px;
+    }
+    
+    #table_btn td {
+      padding: 20px;
+      text-align: center;
+    }
+    
+    .btn {
+      width: 400px;
+      height: 50px;
+    }
+    
+    #now {
+      margin: 40px;
+      background-color: #1c67b7; 
+      color: #fff;
+      width: 200px; 
+      height: 40px;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    
+    #now:hover {
+      background-color: #195ba1;
+      color: white;
+      cursor: pointer;
+    }
+    

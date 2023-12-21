@@ -1,0 +1,49 @@
+#fir{
+    height:100%;
+    width: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(Images/arilx.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute
+}
+
+#table {
+    background-color:rgb(193, 217, 241);
+    color: white;
+    width: 300px;
+    padding: 20px;
+    margin: 50px auto;
+    border-radius: 8px;
+    background: transparent;
+    border: transparent;
+    backdrop-filter: blur(10px);
+    box-shadow:0 0 30px rgb(3, 3, 3);
+
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
+  #in{
+    width: 300px;
+    height: px;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  #but {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  #but:hover {
+    background-color: rgb(50, 201, 50);
+  }
